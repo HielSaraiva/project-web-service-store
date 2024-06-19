@@ -1,4 +1,4 @@
-# Project Web Service Store with Spring Boot and JPA / Hibernate:
+# Project REST Web Service Store with Spring Boot and JPA / Hibernate:
 
 ## General Objective:
 * Develop a store project using the frameworks Spring Boot and Hibernate. 
@@ -10,7 +10,7 @@
 
 ### Logical Layers Explanation:
 
-<img src="/Users/hielsaraiva_/Projects/Project_Web_Service/src/assets/imgs/logical-layers.png" alt="Microservice Layers" style="width: 650px;">
+<img src="/src/assets/imgs/logical-layers.png" alt="Microservice Layers" style="width: 650px;">
 
 #### Resource Layer:
 The resource layer is only responsible for the interface, it defines the URLs for the endpoints and secures the application. In addition, it forwards requests to the underlying layer, the service layer.
@@ -29,15 +29,15 @@ Config Package indicates @Bean methods and processed by the Java container to ge
 
 #### Another Layer Architecture:
 
-<img src="/Users/hielsaraiva_/Projects/Project_Web_Service/src/assets/imgs/microservice-layers.png" alt="Microservice Layers" style="width: 700px;">
+<img src="/src/assets/imgs/microservice-layers.png" alt="Microservice Layers" style="width: 700px;">
 
 ### Domain Model:
 
-<img src="/Users/hielsaraiva_/Projects/Project_Web_Service/src/assets/imgs/domain-model.png" alt="Domain Model" style="width: 750px;">
+<img src="/src/assets/imgs/domain-model.png" alt="Domain Model" style="width: 750px;">
 
 ### Domain Instance:
 
-<img src="/Users/hielsaraiva_/Projects/Project_Web_Service/src/assets/imgs/domain-instance.png" alt="Domain Instance" style="width: 750px;">
+<img src="/src/assets/imgs/domain-instance.png" alt="Domain Instance" style="width: 750px;">
 
 ## Versions:
 * Java 17
