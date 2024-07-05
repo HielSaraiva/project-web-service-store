@@ -14,6 +14,11 @@
 
 ## Technologies Used
 
+### REST Architecture
+
+- A REST API (also called a RESTful API or RESTful web API) is an application programming interface (API) that conforms to the design principles of the representational state transfer (REST) architectural style. REST APIs provide a flexible, lightweight way to integrate applications and to connect components in microservices architectures.
+- REST APIs communicate through HTTP requests to perform standard database functions like creating, reading, updating and deleting records (also known as CRUD) within a resource.
+
 ### JPA / Hibernate
 
 - Java Persistence API (JPA) is the Java EE platform standard specification (`javax.persistence` package) for
