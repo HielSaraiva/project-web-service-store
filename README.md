@@ -1,8 +1,17 @@
 # Project REST Web Service Store with Spring Boot and JPA / Hibernate
 
-<div style="text-align: center">
-  <img src="/src/assets/imgs/spring.png" alt="Spring Boot" width="500px;">
-</div>
+## Table of Contents
+
+1. [General Objective](#general-objective)
+2. [Technologies Used](#technologies-used)
+3. [Project Overview](#project-overview)
+   1. [Logical Layers Explanation](#logical-layers-explanation)
+   2. [Another Layer Architecture](#another-layer-architecture)
+   3. [Domain Model](#domain-model)
+   4. [Domain Instance](#domain-instance)
+4. [Versions](#versions)
+5. [Tools](#tools)
+
 
 ## General Objective
 
@@ -88,7 +97,7 @@
 - Java 17
 - Spring Boot 3.0.0
 
-## Installations of the tools
+## Tools
 
 - [Spring Tools 4](https://spring.io/tools)
 - [Postman API](https://www.postman.com)
